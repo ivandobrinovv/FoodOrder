@@ -1,0 +1,6 @@
+drupal_controller.tac:
+  path: '/termsandconditions'
+  defaults: 
+    _title: 'Terms and conditions'
+    requirements:
+    _permission: 'access content'

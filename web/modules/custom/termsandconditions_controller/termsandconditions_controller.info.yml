@@ -1,0 +1,4 @@
+name: Terms and conditions
+description: Terms and conditions custom module
+type: module
+core_version_requirement: ^8.8 || ^9
